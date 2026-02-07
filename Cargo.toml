@@ -8,6 +8,7 @@ repository = "https://github.com/brucechapman/rust_testing_logger"
 readme = "README.md"
 categories = ["development-tools::testing", "development-tools::debugging"]
 keywords = ["testing", "logging", "log"]
+edition = "2024"
 [badges]
 travis-ci = { repository = "brucechapman/rust_testing_logger", branch = "master" }
 
